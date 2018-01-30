@@ -1,0 +1,33 @@
+<object-stream>
+  <list/>
+  <list>
+    <Resources>
+      <resourceId>1</resourceId>
+      <name>abc</name>
+      <booked>false</booked>
+    </Resources>
+    <Resources>
+      <resourceId>2</resourceId>
+      <name>qwe</name>
+      <booked>false</booked>
+    </Resources>
+  </list>
+  <list>
+    <Users>
+      <id>1</id>
+      <fName>brendan</fName>
+      <lName>walsh</lName>
+      <role>office</role>
+      <phoneNum>123</phoneNum>
+      <userType>admin</userType>
+    </Users>
+    <Users>
+      <id>2</id>
+      <fName>asd</fName>
+      <lName>asd</lName>
+      <role>123</role>
+      <phoneNum>asd</phoneNum>
+      <userType>asd</userType>
+    </Users>
+  </list>
+</object-stream>
